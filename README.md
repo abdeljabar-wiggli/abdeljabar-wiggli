@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Abdeljabar Taoufikallah @abdeljabar-wiggli
+- 👋 Hi, I’m Abdeljabar Taoufikallah @abdeljabarW
 - 👀 I’m interested in PHP & JS frameworks and libraries
-- 🌱 I’m currently learning CQRS
 - 
-- 📫 You can reach me @ abdeljabarwiggli.io to
+- 📫 You can reach me @abdeljabarW to
